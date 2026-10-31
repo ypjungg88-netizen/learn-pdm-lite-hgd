@@ -1,0 +1,2 @@
+render_check.py index.html → assets/answers/preview.png, preview_mobile.png
+콘솔 오류 0건 · 모바일 폭 scrollWidth = 390 (가로 스크롤 없음) · 종료 코드 0

@@ -1,0 +1,39 @@
+{
+ "values": {
+  "trend_start_b_temp": {
+   "value": "13:00",
+   "decimals": null,
+   "block": 1
+  },
+  "trend_start_b_vib": {
+   "value": "15:00",
+   "decimals": null,
+   "block": 1
+  },
+  "trend_start_earliest": {
+   "value": "13:00",
+   "decimals": null,
+   "block": 1
+  },
+  "noise_a_value": {
+   "value": 3.5,
+   "decimals": 1,
+   "block": 1
+  },
+  "noise_a_time": {
+   "value": "12:40",
+   "decimals": null,
+   "block": 1
+  },
+  "sigma2_first": {
+   "value": "15:40",
+   "decimals": null,
+   "block": 1
+  },
+  "lead_minutes": {
+   "value": 160,
+   "decimals": 0,
+   "block": 1
+  }
+ }
+}
